@@ -1,0 +1,18 @@
+{
+  "name": "bbskills",
+  "version": "0.1.0",
+  "description": "Portable reusable agent workflows bundled as one skill collection",
+  "repository": "https://github.com/nguyenquocan0101/bbskills.git",
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "skills"
+  ],
+  "keywords": [
+    "agent-skills",
+    "codex",
+    "llm",
+    "workflows"
+  ]
+}
